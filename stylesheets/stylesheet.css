@@ -260,3 +260,8 @@ a {
   left: 0px;
   
 }
+
+ .responsive-image{
+        height:auto;
+        width:100%;
+    }
