@@ -253,3 +253,10 @@ a {
 .cf {
   zoom:1;
 }
+
+#ytvideo {
+  position: fixed;
+  top: 50px;
+  left: 50px;
+  
+}
