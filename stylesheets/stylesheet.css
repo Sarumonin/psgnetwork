@@ -255,7 +255,8 @@ a {
 }
 
 #musicplayer {
-  display:none;
+  height: 0px;
+  widht: 0px;
 }
 
  .responsive-image{
