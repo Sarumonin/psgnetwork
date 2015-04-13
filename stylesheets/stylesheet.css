@@ -254,11 +254,8 @@ a {
   zoom:1;
 }
 
-#ytvideo {
-  position: fixed;
-  top: 150px;
-  left: 0px;
-  
+#musicplayer {
+  display:none;
 }
 
  .responsive-image{
