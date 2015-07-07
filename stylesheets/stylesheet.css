@@ -8,6 +8,7 @@ body {
 }
 nav ul li, footer ul li {
   display: inline;
+  margin-right: 100px;
 }
 
 img#website_banner {
