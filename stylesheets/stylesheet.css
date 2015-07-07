@@ -238,8 +238,16 @@ hr {
 */
 
 a {
-  color: #63c0f5;
+  color: #63c0f5 !important;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+a:hover {
+color: #ffffff;
+text-decoration: none;
+  -moz-transition: color .2s ease-in;
+  -o-transition: color .2s ease-in;
+  -webkit-transition: color .2s ease-in;
 }
 
 /* Clearfix */
